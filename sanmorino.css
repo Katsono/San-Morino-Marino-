@@ -1,0 +1,46 @@
+/* this is how you comment in CSS */
+
+img{
+width:20%;
+height:20%;    
+   }
+
+body{
+	   background:blue;
+	   font-family:Helvetica;
+	   font-size:12pt;
+	   color:Black;
+	   text-align:left;
+   }
+   
+p{
+
+}
+
+#footer{
+	background:pink;
+	font-family:Helvetica;
+	font-size:16pt;
+	color:darkgreen;
+}
+
+
+h1{
+	background:aqua;
+	font-family:Helvetica
+	font-size:24pt;
+	color:blue;
+	text-align:center;
+}
+#info{
+		background:lightyellow;
+		font-family:Helvetica;
+		font-size:16pt;
+		color:red;	
+}
+#caption{
+	background:lightgreen;
+	font-family:Times New Roman, sans-serif;
+	font-size:12pt;
+	color:black;
+}
